@@ -1,4 +1,3 @@
-
 ## Nataliia Shmatenko
 
 ### Contact information:
@@ -9,7 +8,7 @@
 [**Github**](https://github.com/NatashaSolntseva)  
 [**Telegram**](https://t.me/UltraNata)
 
-### Some words about myself:  
+### Some words about myself:
 
 ### Skills:
 
@@ -22,14 +21,12 @@ VS Code, Figma
 
 ### Code example:
 
-
 ### Work experience:
-
 
 ### Education and courses:
 
 ### Languages:
 
-**English:** B1
+**English:** B1  
 **Turkish:** A1  
 **Russian:** native
