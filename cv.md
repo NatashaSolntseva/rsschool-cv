@@ -6,11 +6,10 @@
 **Location:** Turkey, Fethiye  
 **Phone:** +90 542 158-96-24  
 **Email:** <shmatenko.natalia@gmail.com>  
-**Github:** <https://github.com/NatashaSolntseva>  
-**Telegram:** <https://t.me/UltraNata>
+[**Github**](https://github.com/NatashaSolntseva)  
+[**Telegram**](https://t.me/UltraNata)
 
-### Some words about myself:
-
+### Some words about myself:  
 
 ### Skills:
 
