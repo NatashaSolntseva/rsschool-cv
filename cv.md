@@ -27,6 +27,11 @@ I am a motivated and detail-oriented Frontend Developer. I enjoy solving challen
 
 ## Work Experience
 
+- **Team React application (REST Client)**
+  - _Tech stack:_ Next.js, TypeScript, Ant Design, Firebase Auth & Firestore, i18n
+  - [GitHub repo](https://github.com/petruse4ka/rest-client-app)
+  - [Deploy](https://rest-client-app-great-js-minds.netlify.app/)
+
 ## Education
 
 - **Fullstack Development Program**  
