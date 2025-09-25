@@ -23,6 +23,19 @@ I am a motivated and detail-oriented Frontend Developer. I enjoy solving challen
 - **Tools:** Git, GitHub, Vite, Webpack
 - **Other:** REST APIs, Firebase (Auth, Firestore, Storage), i18n, SSR, performance optimization
 
+## Code Examples
+
+## Work Experience
+
+## Education
+
+- **Fullstack Development Program**  
+  _Yandex Practicum_ (May 2021 – May 2023)
+
+  - Covered: CSS, Git, JavaScript, React, and other frontend skills
+
+- **RS School “React” course (2025)** ([Certificate](TODO)) on [RS School](https://rs.school/courses/reactjs).
+
 ## Language
 
 - **English:** B1
