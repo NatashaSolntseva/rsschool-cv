@@ -25,6 +25,16 @@ I am a motivated and detail-oriented Frontend Developer. I enjoy solving challen
 
 ## Code Examples
 
+Example from **Codewars** (solution in JavaScript):
+
+```javascript
+// Function that returns true if string is a palindrome
+function isPalindrome(str) {
+  const clean = str.toLowerCase().replace(/[^a-z0-9]/g, "");
+  return clean === clean.split("").reverse().join("");
+}
+```
+
 ## Work Experience
 
 - **Team React application (REST Client)**
@@ -34,7 +44,7 @@ I am a motivated and detail-oriented Frontend Developer. I enjoy solving challen
 
 ## Education
 
-- **Fullstack Development Program**  
+- **Fullstack Development Program**
   _Yandex Practicum_ (May 2021 – May 2023)
 
   - Covered: CSS, Git, JavaScript, React, and other frontend skills
@@ -46,3 +56,7 @@ I am a motivated and detail-oriented Frontend Developer. I enjoy solving challen
 - **English:** B1
 - **Turkish:** A2
 - **Russian:** native
+
+```
+
+```
