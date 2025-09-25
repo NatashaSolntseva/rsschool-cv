@@ -14,3 +14,17 @@
 I am a motivated and detail-oriented Frontend Developer. I enjoy solving challenges, learning new technologies, and applying best practices in **React** and **Vue** development.
 
 ## Skills
+
+- **Programming Languages:** JavaScript (ES6+), TypeScript
+- **Frameworks & Libraries:** React, Next.js, Vue 3, Pinia, Redux Toolkit, React Query, RTK Query
+- **UI & Styling:** TailwindCSS, Styled-Components, Ant Design, MUI
+- **State Management:** Redux Toolkit, Context API, Pinia
+- **Testing:** Vitest, React Testing Library
+- **Tools:** Git, GitHub, Vite, Webpack
+- **Other:** REST APIs, Firebase (Auth, Firestore, Storage), i18n, SSR, performance optimization
+
+## Language
+
+- **English:** B1
+- **Turkish:** A2
+- **Russian:** native
