@@ -56,7 +56,3 @@ function isPalindrome(str) {
 - **English:** B1
 - **Turkish:** A2
 - **Russian:** native
-
-```
-
-```
