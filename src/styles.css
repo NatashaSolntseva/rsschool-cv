@@ -121,6 +121,20 @@
   text-decoration: underline;
 }
 
+.contacts__avatar {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
+
+.contacts__avatar img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #ccc;
+}
+
 .code__block {
   background: #0f0f0f;
   color: #e0e0e0;
