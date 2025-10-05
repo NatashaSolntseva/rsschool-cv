@@ -16,8 +16,8 @@ I am a motivated and detail-oriented Frontend Developer. I enjoy solving challen
 ## Skills
 
 - **Programming Languages:** JavaScript (ES6+), TypeScript
-- **Frameworks & Libraries:** React, Next.js, Vue 3, Pinia, Redux Toolkit, React Query, RTK Query
-- **UI & Styling:** TailwindCSS, Styled-Components, Ant Design, MUI
+- **Frameworks &amp; Libraries:** React, Next.js, Vue 3, Pinia, Redux Toolkit, React Query, RTK Query
+- **UI &amp; Styling:** TailwindCSS, Styled-Components, Ant Design, MUI
 - **State Management:** Redux Toolkit, Context API, Pinia
 - **Testing:** Vitest, React Testing Library
 - **Tools:** Git, GitHub, Vite, Webpack
@@ -38,7 +38,7 @@ function isPalindrome(str) {
 ## Work Experience
 
 - **Team React application (REST Client)**
-  - _Tech stack:_ Next.js, TypeScript, Ant Design, Firebase Auth & Firestore, i18n
+  - _Tech stack:_ Next.js, TypeScript, Ant Design, Firebase Auth &amp; Firestore, i18n
   - [GitHub repo](https://github.com/petruse4ka/rest-client-app)
   - [Deploy](https://rest-client-app-great-js-minds.netlify.app/)
 
